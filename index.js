@@ -5,7 +5,3 @@ function laCajaDePandora(numero) {
   if (numero % 2) return "0x" + numero.toString(16);
   return numero.toString(2);
 }
-
-console.log(laCajaDePandora(12));
-console.log(laCajaDePandora(13));
-console.log(laCajaDePandora(25));
