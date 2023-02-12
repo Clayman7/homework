@@ -5,3 +5,11 @@ function laCajaDePandora(numero) {
   if (numero % 2) return "0x" + numero.toString(16);
   return numero.toString(2);
 }
+
+function victor() {
+  return {
+    name: "victor",
+    age: 23,
+    country: "Peru",
+  };
+}
