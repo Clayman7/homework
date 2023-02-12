@@ -9,7 +9,7 @@ function laCajaDePandora(numero) {
 function victor() {
   return {
     name: "victor22",
-    age: 2123,
+    age: 21223,
     country: "Peru",
   };
 }
