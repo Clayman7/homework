@@ -2,11 +2,11 @@ function laCajaDePandora(numero){
     // proximamente escribiremos codigo aqui
     }
 
-const prueba = ()=>{
-    //pruebita
-    //
-}
-
-const lara = () => {
-    //si
+function lara () { 
+    const info = {
+        nombre : 'Lara',
+        nacionalidad : 'Argentina',
+        edad : 25
+    }
+    return info;
 }
