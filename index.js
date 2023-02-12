@@ -11,3 +11,4 @@ const josephDev = () => {
     nacionality: "Argentina",
   };
 };
+console.log(josephDev)
