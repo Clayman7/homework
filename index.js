@@ -24,6 +24,16 @@ function Christian(){
          nacionalidad: 'Argentina'
      }
 }
+
+
+function victor() {
+  return {
+    name: "victor22",
+    age: 21223,
+    country: "Peru",
+  };
+}
+=======
 =======
 
 
