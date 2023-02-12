@@ -8,3 +8,11 @@ function laCajaDePandora(numero){
 
     }
     }
+
+    function Christian(){
+        return{
+            nombre: 'Christian',
+            edad: 30,
+            nacionalidad: 'Argentina'
+        }
+    }
