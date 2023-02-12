@@ -6,7 +6,7 @@ function lara () {
     const info = {
         nombre : 'Lara',
         nacionalidad : 'Argentina',
-        edad : 25
+        edad: 25
     }
     return info
 }
