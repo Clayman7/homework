@@ -6,3 +6,7 @@ const prueba = ()=>{
     //pruebita
     //
 }
+
+const lara = () => {
+    //si
+}
