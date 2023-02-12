@@ -8,7 +8,7 @@ function laCajaDePandora(numero) {
 
 function victor() {
   return {
-    name: "victor",
+    name: "victor22",
     age: 23,
     country: "Peru",
   };
