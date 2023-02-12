@@ -7,5 +7,8 @@ function laCajaDePandora(numero) {
   }
 }
 
+let pruebaRequest = ()=>{
+  console.log("***************************");
+}
 //prueba 07
 
