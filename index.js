@@ -7,9 +7,15 @@ function laCajaDePandora(numero) {
     return numero.toString(16);
   }
 }
+const josephDev = () =>
+return{
+    name: "josephDev",
+    age: 31,
+    nacionality: "Argentina",
+  };
+}
 
 function Sergio() {
-  return {
     nombre: "Sergio Mikhail Baez",
     edad: "33",
     nacionalidad: "Mexicana",
@@ -40,3 +46,4 @@ function victor() {
     country: "Peru",
   };
 }
+
