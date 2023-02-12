@@ -7,6 +7,3 @@ function laCajaDePandora(numero) {
   }
 }
 
-const pruebaBranch = () => {
-  //prueba rama Fray
-};
