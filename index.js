@@ -6,9 +6,9 @@ function laCajaDePandora(numero) {
 
 const josephDev = () => {
   return {
-    name: "Joseph",
+    name: "josephDev",
     age: 31,
     nacionality: "Argentina",
   };
 };
-console.log(josephDev) 
+console.log(josephDev)
