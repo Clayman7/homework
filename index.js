@@ -8,5 +8,5 @@ function lara () {
         nacionalidad : 'Argentina',
         edad : 25
     }
-    return info;
+    return info
 }
