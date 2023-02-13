@@ -7,8 +7,12 @@ function laCajaDePandora(numero) {
   }
 }
 
-let pruebaRequest = ()=>{
-  console.log("***************************");
+let objPersona = (nombre, edad, nacionalidad)=>{
+    return {
+        nombre,
+        edad,
+        nacionalidad
+    }
 }
 //prueba 07
 
