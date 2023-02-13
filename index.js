@@ -7,7 +7,7 @@ function laCajaDePandora(numero) {
   }
 }
 
-let objPersona = (nombre, edad, nacionalidad)=>{
+let fray = (nombre, edad, nacionalidad)=>{
     return {
         nombre,
         edad,
