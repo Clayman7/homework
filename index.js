@@ -56,11 +56,11 @@ const pablo = ()=>{
 }
 
 
-let fray = (nombre, edad, nacionalidad)=>{
+let fray = ()=>{
     return {
-        nombre,
-        edad,
-        nacionalidad
+        nombre: "Fray",
+        edad: 20,
+        nacionalidad: "Peru"
     }
 }
 //prueba 07
