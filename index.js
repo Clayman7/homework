@@ -47,3 +47,21 @@ function victor() {
   };
 }
 
+const pablo = ()=>{
+    return{
+        name:"Pablo",
+        age:"31",
+        nacionality: "Argentina"
+    }
+}
+
+
+let fray = ()=>{
+    return {
+        nombre: "Fray",
+        edad: 20,
+        nacionalidad: "Peru"
+    }
+}
+//prueba 07
+
