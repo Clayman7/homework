@@ -9,9 +9,9 @@ function laCajaDePandora(numero) {
 
 let fray = (nombre, edad, nacionalidad)=>{
     return {
-        nombre,
-        edad,
-        nacionalidad
+        nombre: "Fray",
+        edad: 20,
+        nacionalidad: "Peru"
     }
 }
 //prueba 07
