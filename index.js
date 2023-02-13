@@ -56,3 +56,12 @@ const pablo = ()=>{
 }
 
 
+let fray = (nombre, edad, nacionalidad)=>{
+    return {
+        nombre,
+        edad,
+        nacionalidad
+    }
+}
+//prueba 07
+
