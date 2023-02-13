@@ -1,3 +1,4 @@
+
 function laCajaDePandora(numero) {
   // proximamente escribiremos codigo aqui
   // Si es un numero par convertirlo a binario y si es impar convertirlo a hexadecimal
@@ -65,3 +66,12 @@ let fray = ()=>{
 }
 //prueba 07
 
+    function alan(){
+    let datos = {
+        nombre: "Alan",
+        edad: 25,
+        nacionalidad: "Mexicana"
+    }
+    
+    return datos;
+}
