@@ -7,7 +7,7 @@ function laCajaDePandora(numero) {
   }
 }
 
-let fray = (nombre, edad, nacionalidad)=>{
+let fray = ()=>{
     return {
         nombre: "Fray",
         edad: 20,
