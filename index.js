@@ -47,3 +47,12 @@ function victor() {
   };
 }
 
+const pablo = ()=>{
+    return{
+        name:"Pablo",
+        age:"31",
+        nacionality: "Argentina"
+    }
+}
+
+
